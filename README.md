@@ -1,7 +1,5 @@
 # Tian Chen
-
 ---
-
 - Hey, Tian Chen here! I am currently pursuing a Master's degree from Columbia University in Quantatitative Methods in the Social Sciences with a focus on Data Science. Plan to graduate in December, 2022.
 - After spending four years in college, I find that my true passion lies in data science and the story that it . I plan to become a data scientist upon graduation.
 - My study has enabled me with various Data Analytics techniques:
