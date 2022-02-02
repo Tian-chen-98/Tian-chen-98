@@ -3,7 +3,7 @@
 - My study has enabled me with various Data Analytics techniques:
   - Deep Learning (CNN, RNN, GAN, LSTM Networks), Reinforment Learning, and machine learning models (KNN, OLS, Logistic Regression/L1/L2, Decision Trees/Random Forest/Boosting Trees, SVM, K-Means Clustering, Hierarchical Clustering, DBSCAN). 
   - Multiple programming languages (Python, R, SQL).
-  - cloud platforms (AWS, Azure, Databricks). 
+  - Cloud platforms (AWS, Azure, Databricks). 
   - Data visualization (Tableau).
 - Now, I am actively seeking data-related internship opportunities, including Data Analyst, Data Scientist, Business Analyst, and Product Analyst. Feel free to get in touch through my email address or LinkedIn below:
 
