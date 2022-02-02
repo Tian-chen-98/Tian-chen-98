@@ -1,0 +1,1 @@
+- Hey, Tian Chen here! I am currently pursuing a Master's degree from Columbia University in Quantatitative Methods in the Social Sciences with a focus on Data Science.
