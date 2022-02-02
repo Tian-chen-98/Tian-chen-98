@@ -8,5 +8,4 @@
 - Now, I am actively seeking data-related internship opportunities, including Data Analyst, Data Scientist, Business Analyst, and Product Analyst. Feel free to get in touch through my email address or LinkedIn below:
 
   _Email: tc3147@columbia.edu_
-
   _LinkedIn: [Tian Chen](www.linkedin.com/in/tian-chen-7a2901198)_
