@@ -15,4 +15,4 @@
 
   _Email: tc3147@columbia.edu_
   
-  _LinkedIn: [Tian Chen](www.linkedin.com/in/tian-chen-7a2901198)_
+  _LinkedIn: [Tian Chen](https://www.linkedin.com/in/tianchen98/)_
