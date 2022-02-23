@@ -8,7 +8,7 @@
   - Multiple programming languages (Python, R, SQL).
   - Cloud platforms (AWS, Azure, Databricks). 
   - Data visualization (Tableau).
-- Please find in this repo my sample projects.
+- Please find in the project repo my sample projects.
 - Now, I am actively seeking data-related internship opportunities, including Data Analyst, Data Scientist, Business Analyst, and Product Analyst. Feel free to get in touch through my email address or LinkedIn below:
 
   _Email: tc3147@columbia.edu_
