@@ -8,8 +8,8 @@
   - Reinforcement Learning (Model-free and Model-based RL)
   - machine learning models (KNN, OLS, Logistic Regression/L1/L2, Decision Trees/Random Forest/Boosting Trees, SVM, K-Means Clustering, Hierarchical Clustering, DBSCAN)
   - Multiple programming languages (Python, R, SQL)
-  - Cloud platforms (AWS, Azure, Databricks). 
-  - Data visualization (Tableau).
+  - Cloud platforms (AWS, Azure, Databricks, Snowflake). 
+  - Data visualization (Tableau, ggplot2, matplotlib, seaborn).
 - Please find in the project repo my sample projects.
 - Now, I am actively seeking data-related internship opportunities, including Data Analyst, Data Scientist, Business Analyst, and Product Analyst. Feel free to get in touch through my email address or LinkedIn below:
 
